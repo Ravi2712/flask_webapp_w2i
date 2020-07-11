@@ -3,7 +3,11 @@
 # @Email: jsp0053@auburn.edu
 # @Date:   2020-06-27 07:50:42
 # @Last Modified by:   Jay Patel
+<<<<<<< HEAD
 # @Last Modified time: 2020-06-27 11:02:39
+=======
+# @Last Modified time: 2020-06-27 09:23:26
+>>>>>>> 6c4a83fe5b95b7fc265361e1bd88df8aa356e36e
 
 import os
 from magical_function import wordsToInteger

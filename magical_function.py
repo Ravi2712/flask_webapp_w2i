@@ -3,7 +3,7 @@
 # @Email: jsp0053@auburn.edu
 # @Date:   2020-06-27 07:50:42
 # @Last Modified by:   Jay Patel
-# @Last Modified time: 2020-06-27 08:03:26
+# @Last Modified time: 2020-07-11 11:03:04
 
 def wordsToInteger(userInput, wordsDict={}):
 
